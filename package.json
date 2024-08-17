@@ -1,0 +1,21 @@
+{
+  "name": "code-magic",
+  "displayName": "Code-Magic",
+  "description": "It wraps the whole code with magical colors",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.92.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Code-Magic",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Code-Magic-color-theme.json"
+      }
+    ]
+  }
+}
