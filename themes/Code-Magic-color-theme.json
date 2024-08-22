@@ -5,7 +5,25 @@
     "editor.background": "#0f2240",
     "editor.foreground": "#9af5f5",
     "activityBarBadge.background": "#031551",
-    "sideBarTitle.foreground": "#d0ffcd"
+    "sideBarTitle.foreground": "#d0ffcd",
+    "activityBar.background": "#022f4b",
+    "sideBar.background":"#011830",
+    "sideBar.border":"#9edce9",
+    "terminal.background":"#07003a",
+    "icon.foreground":"#ffffff",
+    "window.activeBorder":"#a0eeff",
+    "toolbar.hoverBackground":"#04868b",
+    "input.background":"#003e48",
+    "input.foreground":"#ffffff",
+    "activityBar.foreground":"#ffffff",
+    "editorGroupHeader.tabsBackground":"#2b3855",
+    "tab.activeBackground":"#144070",
+    "tab.inactiveBackground":"#03274d",
+    "menu.background":"#022031",
+    "titleBar.activeBackground":"#050526",
+    "statusBar.background":"#0a6b43"
+    
+
   },
   "tokenColors": [
     {
@@ -130,7 +148,7 @@
         "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
       ],
       "settings": {
-        "foreground": "#C3E88D"
+        "foreground": "#d9ffa0"
       }
     },
     {
@@ -308,7 +326,7 @@
         "source.json meta.structure.dictionary.json support.type.property-name.json"
       ],
       "settings": {
-        "foreground": "#74d1e9"
+        "foreground": "#a7edff"
       }
     },
     {
@@ -390,7 +408,7 @@
         "punctuation.definition.list_item.markdown"
       ],
       "settings": {
-        "foreground": "#eddef3"
+        "foreground": "#e4b4f7"
       }
     },
     {
@@ -406,7 +424,7 @@
         "text.html.markdown markup.inline.raw.markdown punctuation.definition.raw.markdown"
       ],
       "settings": {
-        "foreground": "#65737E"
+        "foreground": "#ff89bc"
       }
     },
     {
