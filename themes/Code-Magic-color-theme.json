@@ -3,7 +3,7 @@
   "name": "Code-Magic",
   "colors": {
     "editor.background": "#0f2240",
-    "editor.foreground": "#9af5f5",
+    "editor.foreground": "#b5fafa",
     "activityBarBadge.background": "#031551",
     "sideBarTitle.foreground": "#d0ffcd",
     "activityBar.background": "#022f4b",
@@ -21,7 +21,7 @@
     "tab.inactiveBackground":"#03274d",
     "menu.background":"#022031",
     "titleBar.activeBackground":"#050526",
-    "statusBar.background":"#0a6b43"
+    "statusBar.background":"#066460"
     
 
   },
